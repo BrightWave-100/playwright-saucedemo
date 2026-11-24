@@ -1,4 +1,5 @@
 # playwright-saucedemo
+[![Playwright Tests](https://github.com/BrightWave-100/playwright-saucedemo/actions/workflows/playwright.yml/badge.svg)](https://github.com/BrightWave-100/playwright-saucedemo/actions/workflows/playwright.yml)
 
 End-to-end tests for the SauceDemo practice site, written in TypeScript with Playwright. The suite covers login, inventory, cart, checkout, and the four built-in problem accounts.
 
